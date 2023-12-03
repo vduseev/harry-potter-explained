@@ -1,0 +1,19 @@
+<nav class="nav">
+  <div class="nav-container">
+    <a href="{{ config.base_url }}">{{ config.title }}</a>
+    <ul>
+      {% if config.extra.nav.links %}
+      {% for link in config.extra.nav.links %}
+        <li>
+          <a href="{{ link.url }}">{{ link.name }}</a>
+        </li>
+      {% endfor %}
+      {% endif %}
+      {% if config.extra.nav.show_feed %}
+        <li>
+          <a href="{{ config.base_url }}/atom.xml">Feed</a>
+        </li>
+      {% endif %}
+    </ul>
+  </div>
+</nav>

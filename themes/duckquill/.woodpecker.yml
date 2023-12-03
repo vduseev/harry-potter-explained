@@ -1,0 +1,5 @@
+steps:
+  build:
+    image: fish
+    commands:
+      - zola build --output-dir /srv/http/pages/duckquill --force

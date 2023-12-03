@@ -1,0 +1,56 @@
+title = "Harry Potter Magic Explained"
+description = "An in-depth look at the magic of the Harry Potter universe"
+# The URL the site will be built for
+base_url = "https://harry-potter-magic-explained.github.io"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+minify_html = true
+generate_feed = true
+feed_filename = "atom.xml"
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+theme = "duckquill"
+
+taxonomies = [
+  {name = "tags", feed = true},
+]
+
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+highlight_theme = "css"
+highlight_themes_css = [
+  { theme = "solarized-dark", filename = "syntax-theme-dark.css" },
+  { theme = "solarized-light", filename = "syntax-theme-light.css" },
+]
+smart_punctuation = true
+
+
+[extra]
+# Put all your custom variables here
+primary_color = "#ff7800"
+
+date_format = "%Y-%B-%d"
+
+# URL to issue tracker
+issues_url = "https://github.com/vduseev/harry-potter-magic-explained/issues"
+# URL to website's source code
+source_url = "https://github.com/vduseev/harry-potter-magic-explained"
+
+
+[extra.footer]
+# URL to the website without the https:// part, used for Johnvertisement leaderboard
+johnvert_ref = "harry-potter-magic-explained.github.io"
+# "© Title, YEAR" in the footer
+show_copyright = true
+# Johnvertisement in the footer
+show_johnvert = false
+# "Powered by Zola and Duckquill" in footer
+show_powered_by = true
+# Link to website source
+show_source = true

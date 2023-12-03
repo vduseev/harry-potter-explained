@@ -1,0 +1,6 @@
+# Build
+public/
+
+# Thumbnails
+Thumbs.db
+.DS_Store
