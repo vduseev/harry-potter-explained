@@ -21,7 +21,7 @@ This website is a collection of explanations for the magic in the Harry Potter u
 
 If you want to improve this website in any way, feel free to open an issue, or even better, a pull request! I'm happy about every contribution!
 
-The main repo is [github.com/vduseev/harry-potter-magic-explained](https://github.com/vduseev/harry-potter-magic-explained).
+The main repo is [github.com/vduseev/harry-potter-explained](https://github.com/vduseev/harry-potter-explained).
 
 ## Credits
 

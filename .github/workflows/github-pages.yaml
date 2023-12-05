@@ -59,7 +59,7 @@ jobs:
 
       - name: Add README disclaimer
         run: |
-          echo '# GitHub Pages for `harry-potter-magic-explained`' > README.md
+          echo '# GitHub Pages for `harry-potter-explained`' > README.md
           echo "" >> README.md
           echo "This branch is built using GitHub Actions workflow and Zola." >> README.md
           echo "" >> README.md
@@ -68,6 +68,10 @@ jobs:
       - name: Add .nojekyll file to prevent the contents from being built by GitHub pages second time
         run: |
           touch .nojekyll
+
+      - name: Add CNAME file
+        run: |
+          echo "harrypotterexplained.com" > CNAME
 
       - name: Push everything to gh-pages branch on GitHub
         run: |

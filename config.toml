@@ -1,7 +1,7 @@
-title = "Harry Potter Magic Explained"
-description = "An in-depth look at the magic of the Harry Potter universe"
+title = "Harry Potter Explained"
+description = "In-depth explanations of the magic of the Harry Potter universe"
 # The URL the site will be built for
-base_url = "https://harry-potter-magic-explained.github.io"
+base_url = "https://harrypotterexplained.com"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -38,14 +38,14 @@ primary_color = "#ff7800"
 date_format = "%Y-%B-%d"
 
 # URL to issue tracker
-issues_url = "https://github.com/vduseev/harry-potter-magic-explained/issues"
+issues_url = "https://github.com/vduseev/harry-potter-explained/issues"
 # URL to website's source code
-source_url = "https://github.com/vduseev/harry-potter-magic-explained"
+source_url = "https://github.com/vduseev/harry-potter-explained"
 
 
 [extra.footer]
 # URL to the website without the https:// part, used for Johnvertisement leaderboard
-johnvert_ref = "harry-potter-magic-explained.github.io"
+johnvert_ref = "harrypotterexplained.com"
 # "© Title, YEAR" in the footer
 show_copyright = true
 # Johnvertisement in the footer
