@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Harry Potter Explained - Harry Potter</title>
+    <subtitle>In-depth explanations of the magic of the Harry Potter universe</subtitle>
+    <link href="https://harrypotterexplained.com/tags/harry-potter/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://harrypotterexplained.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-12-09T00:00:00+00:00</updated>
+    <id>https://harrypotterexplained.com/tags/harry-potter/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Reflections of Desire: Unveiling the Mysteries of the Mirror of Erised</title>
+        <published>2023-12-09T00:00:00+00:00</published>
+        <updated>2023-12-09T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://harrypotterexplained.com/articles/mirror-of-erised/" type="text/html"/>
+        <id>https://harrypotterexplained.com/articles/mirror-of-erised/</id>
+        <content type="html">&lt;a href=&quot;mirror.png&quot;&gt;
+  &lt;img
+    class=&quot;
+      
+      
+      
+      no-hover
+    &quot;
+    alt=&quot;Mirror of Erised&quot;
+    src=&quot;mirror.png&quot;
+  &#x2F;&gt;
+&lt;&#x2F;a&gt;
+&lt;p&gt;In the enchanting corridors of the wizarding world, few artifacts have captured the imagination quite like the Mirror of Erised. This beguiling and unusual magical object stands as a testament to the complex nature of desire and the human heart. Adorned with an inscription that reads in reverse, it reveals not the viewer’s face but their innermost yearnings, often hidden even from themselves. The mirror, with its ornate frame and ancient aura, offers a glimpse into a realm where reality intertwines with the most desperate wishes of our hearts, serving as a mirror to the soul rather than the physical form.&lt;&#x2F;p&gt;
+&lt;p&gt;But what arcane enchantments empower this mirror to delve into the psyche and conjure up such personal revelations? And what can its existence tell us about the nature of magic itself, which seems to transcend the boundaries of mere spells and potions? Join me as we embark on a journey to understand the intricate magic behind the Mirror of Erised, unraveling the fabric of its enchantment and the principles that allow such a mystical experience. Let’s dive into the reflective depths of this extraordinary artifact and explore the physics of the possible within the wizarding realm.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-do-we-know-about-the-mirror-of-erised&quot;&gt;What do we know about the Mirror of Erised?&lt;&#x2F;h2&gt;
+&lt;p&gt;The Mirror of Erised is a tall, ornate mirror with a gold frame and clawed feet. It is adorned with an inscription in an unknown language, which reads in reverse and can only be deciphered when reflected in the mirror itself. The mirror is said to have been created by a mysterious wizard named Erised, who lived in a remote village in the fifteenth century. Erised was a recluse who rarely left his home, and he died in his sleep shortly after the mirror was completed. The mirror was passed down through the generations of his family, and eventually came into the possession of Albus Dumbledore, who kept it in his office at Hogwarts School of Witchcraft and Wizardry.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;what-attributes-does-the-mirror-of-erised-possess&quot;&gt;What attributes does the Mirror of Erised possess?&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Shows the viewer their deepest desires&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Can display concurrent images for multiple viewers&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&#x2F;&gt;
+Can be reprogrammed to behave in certain ways&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+    </entry>
+    <entry xml:lang="en">
+        <title>Why Harry Potter is protected from Voldemort</title>
+        <published>2023-12-03T00:00:00+00:00</published>
+        <updated>2023-12-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://harrypotterexplained.com/articles/harrys-protection/" type="text/html"/>
+        <id>https://harrypotterexplained.com/articles/harrys-protection/</id>
+        <content type="html"></content>
+    </entry>
+</feed>

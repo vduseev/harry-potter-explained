@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Harry Potter Explained - Voldemort</title>
+    <subtitle>In-depth explanations of the magic of the Harry Potter universe</subtitle>
+    <link href="https://harrypotterexplained.com/tags/voldemort/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://harrypotterexplained.com"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-12-03T00:00:00+00:00</updated>
+    <id>https://harrypotterexplained.com/tags/voldemort/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Why Harry Potter is protected from Voldemort</title>
+        <published>2023-12-03T00:00:00+00:00</published>
+        <updated>2023-12-03T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://harrypotterexplained.com/articles/harrys-protection/" type="text/html"/>
+        <id>https://harrypotterexplained.com/articles/harrys-protection/</id>
+        <content type="html"></content>
+    </entry>
+</feed>
