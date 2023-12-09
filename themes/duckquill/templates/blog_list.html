@@ -8,7 +8,7 @@
 <small>
   <a class="link-page" href="{{ config.base_url }}/tags">Filter by tag</a>
   <br />
-  From newest to oldest ↓
+  Articles are sorted from newest to oldest ↓
 </small>
 
 {% for page in section.pages %}
@@ -16,6 +16,15 @@
   <h3>
     <a class="link-page" href="{{ page.permalink | safe }}">{{ page.title }}</a>
   </h3>
+  {%- if page.extra.image %}
+    <a href="{{ page.permalink | safe }}">
+      <img
+        class="no-hover"
+        {% if page.description %}alt="{{ page.description }}"{% endif %}
+        src="{{ page.permalink | safe }}{{ page.extra.image }}"
+      />
+    </a>
+  {%- endif %}
   {%- if page.description %}
     <p>{{ page.description }}</p>
   {%- endif %}

@@ -1,6 +1,6 @@
 <footer class="footer">
   {% if config.extra.footer.show_copyright %}
-    <p title="Last built at {{ now() | date(format='%F %R %Z') }}">&copy; {{ config.title }}, 2023</p>
+    <p title="Last built at {{ now() | date(format='%F %R %Z') }}">&copy; {{ config.title }}, Vagiz Duseev, 2022-{{ now() | date(format='%Y') }}</p>
   {% endif %}
 
   {% if config.extra.footer.show_source %}
@@ -8,7 +8,7 @@
   {% endif %}
 
   {% if config.extra.footer.show_powered_by %}
-    <p><small>Powered by <a href="https://www.getzola.org">Zola</a> and <a href="https://duckquill.exozy.me">Duckquill</a></small></p>
+    <p><small>Powered by <a href="https://www.getzola.org">Zola</a> using <a href="https://duckquill.exozy.me">Duckquill</a> template</small></p>
   {% endif %}
 
   {% if config.extra.footer.show_johnvert %}
